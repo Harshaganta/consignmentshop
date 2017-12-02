@@ -1,0 +1,12 @@
+C:\Users\ganta\source\repos\ConsignmentShop\ConsignmentShopUI\bin\Debug\ConsignmentShopUI.exe.config
+C:\Users\ganta\source\repos\ConsignmentShop\ConsignmentShopUI\bin\Debug\ConsignmentShopUI.exe
+C:\Users\ganta\source\repos\ConsignmentShop\ConsignmentShopUI\bin\Debug\ConsignmentShopUI.pdb
+C:\Users\ganta\source\repos\ConsignmentShop\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.csprojResolveAssemblyReference.cache
+C:\Users\ganta\source\repos\ConsignmentShop\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.ConsignmentShop.resources
+C:\Users\ganta\source\repos\ConsignmentShop\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.Properties.Resources.resources
+C:\Users\ganta\source\repos\ConsignmentShop\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.csproj.GenerateResource.Cache
+C:\Users\ganta\source\repos\ConsignmentShop\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.csproj.CoreCompileInputs.cache
+C:\Users\ganta\source\repos\ConsignmentShop\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.exe
+C:\Users\ganta\source\repos\ConsignmentShop\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.pdb
+C:\Users\ganta\source\repos\ConsignmentShop\ConsignmentShopUI\bin\Debug\ConsignmentShopLibrary.dll
+C:\Users\ganta\source\repos\ConsignmentShop\ConsignmentShopUI\bin\Debug\ConsignmentShopLibrary.pdb
